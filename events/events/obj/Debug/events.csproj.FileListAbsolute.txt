@@ -1,0 +1,36 @@
+c:\users\ahmed hassan\documents\visual studio 2013\Projects\events\events\bin\Debug\events.exe
+c:\users\ahmed hassan\documents\visual studio 2013\Projects\events\events\bin\Debug\events.pdb
+c:\users\ahmed hassan\documents\visual studio 2013\Projects\events\events\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\ahmed hassan\documents\visual studio 2013\Projects\events\events\obj\Debug\events.csprojResolveAssemblyReference.cache
+c:\users\ahmed hassan\documents\visual studio 2013\Projects\events\events\obj\Debug\events.Form1.resources
+c:\users\ahmed hassan\documents\visual studio 2013\Projects\events\events\obj\Debug\events.Properties.Resources.resources
+c:\users\ahmed hassan\documents\visual studio 2013\Projects\events\events\obj\Debug\events.csproj.GenerateResource.Cache
+c:\users\ahmed hassan\documents\visual studio 2013\Projects\events\events\obj\Debug\events.exe
+c:\users\ahmed hassan\documents\visual studio 2013\Projects\events\events\obj\Debug\events.pdb
+F:\events\events\obj\Debug\events.exe
+F:\events\events\obj\Debug\events.pdb
+F:\events\events\bin\Debug\events.exe
+F:\events\events\bin\Debug\events.pdb
+F:\events\events\obj\Debug\events.Form1.resources
+F:\events\events\obj\Debug\events.Properties.Resources.resources
+F:\events\events\obj\Debug\events.csproj.GenerateResource.Cache
+F:\events\events\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\events\events\obj\Debug\events.Edition.resources
+F:\events\events\obj\Debug\events.Addition.resources
+F:\events\events\obj\Debug\events.csprojResolveAssemblyReference.cache
+F:\events\events\obj\Debug\events.Upcoming.resources
+F:\events\events\obj\Debug\events.MainForm.resources
+F:\events\events\obj\Debug\events.Done.resources
+C:\Users\Dell\Desktop\events\events\bin\Debug\events.exe
+C:\Users\Dell\Desktop\events\events\bin\Debug\events.pdb
+C:\Users\Dell\Desktop\events\events\obj\Debug\events.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\events\events\obj\Debug\events.Done.resources
+C:\Users\Dell\Desktop\events\events\obj\Debug\events.Edition.resources
+C:\Users\Dell\Desktop\events\events\obj\Debug\events.Form1.resources
+C:\Users\Dell\Desktop\events\events\obj\Debug\events.MainForm.resources
+C:\Users\Dell\Desktop\events\events\obj\Debug\events.Properties.Resources.resources
+C:\Users\Dell\Desktop\events\events\obj\Debug\events.Addition.resources
+C:\Users\Dell\Desktop\events\events\obj\Debug\events.Upcoming.resources
+C:\Users\Dell\Desktop\events\events\obj\Debug\events.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\events\events\obj\Debug\events.exe
+C:\Users\Dell\Desktop\events\events\obj\Debug\events.pdb
